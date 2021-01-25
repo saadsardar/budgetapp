@@ -112,7 +112,7 @@ class _HomeScreenState extends State<HomeScreen> {
               onPressed: () {},
             ),
             flexibleSpace: FlexibleSpaceBar(
-              title: Text('Simple Budget'),
+              title: Text('My Budget'),
             ),
             actions: <Widget>[
               IconButton(
